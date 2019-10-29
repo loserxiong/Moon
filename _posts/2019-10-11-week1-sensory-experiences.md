@@ -2,7 +2,7 @@
 layout: post
 title:  "Week1 Sensory Experience"
 date:   2019-10-11
-excerpt: "Week1 Clunky project"
+excerpt: "Project1 Clunky "
 tag:
 - MA UX 
 - Term1
@@ -70,7 +70,6 @@ We didn't finish our presentation this time because we wrongly arranged the time
 This is our first project and I quite enjoy the whole process. Hope we can do better next time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UI94q-z4hlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
