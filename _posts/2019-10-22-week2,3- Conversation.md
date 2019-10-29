@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week2,3 Conversation"
+title:  "Week2-3 Conversation"
 date:   2019-10-22
 excerpt: "project2 conversation between man and machine"
 tag:
