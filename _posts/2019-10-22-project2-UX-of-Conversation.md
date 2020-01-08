@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Week2-3 Conversation"
+title:  "Project2 UX of Conversation"
 date:   2019-10-22
 excerpt: "project2 conversation between man and machine"
 tag:
-- MA UX 
 - Term1
 comments: false
 ---
-Week 2-3 Project2 Conversation
-
 For this project, we were asked to design a conversation between a human user and a machine. I worked with Erick, Zain and Ann.
 
 At first, we had some debate about the definition of machine. Ann think small objects such as table, chair and also animals like rabbit could also be defined as machine. But the rest of us just didn't want our project to be too abstract. So we move on to do some brainstorming to find out the fields that may have some opportunities.
