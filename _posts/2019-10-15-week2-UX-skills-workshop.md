@@ -4,7 +4,6 @@ title:  "Week2 UX Skills Workshop1"
 date:   2019-10-15
 excerpt: "Week2 interview"
 tag:
-- MA UX 
 - UX skills
 comments: false
 ---

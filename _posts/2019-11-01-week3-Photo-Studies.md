@@ -4,7 +4,6 @@ title:  "Week3 UX Skills Workshop2"
 date:   2019-11-1
 excerpt: "Week3 photo studies"
 tag:
-- MA UX 
 - UX skills
 comments: false
 ---

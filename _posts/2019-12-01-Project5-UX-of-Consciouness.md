@@ -8,8 +8,6 @@ tag:
 comments: false
 ---
 
-### UX of Consciousness
-
 Partner: Tanvi, Erick, Lea
 
 For the final project of this term, we were asked to design an experience that explores the nature of the consciousness.
