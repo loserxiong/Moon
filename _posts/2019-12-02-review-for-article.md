@@ -2,11 +2,13 @@
 layout: post
 title:  "Mobile phone"
 date:   2019-12-02
-excerpt: "The smartphone is the siganture artefact of our age"
+excerpt: "The smartphone is the signature artefact of our age"
 tag:
 - Article Review
 comments: false
 ---
+
+![6-1.jpg](https://i.loli.net/2020/01/09/z5LSROkyBtbCnMD.jpg)
 
 To be honest, my life has been completely hijacked by the mobile phone. When Apple introduced screen time function, I am so surprised to find out that  I use my phone for 8 hours a day on average. Although I really enjoy the convenience brought by mobile phones, Such a long use time is obviously unacceptable. Not to mention that this hasn't counted the time spent on iPad and computer. I aware  that I became a slave of my phone.
 

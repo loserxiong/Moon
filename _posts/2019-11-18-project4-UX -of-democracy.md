@@ -8,9 +8,7 @@ tag:
 comments: false
 ---
 
-### UX of democracy
-
-partner: Felix, Ana, Ann, Lili
+Partner: Felix, Ana, Ann, Lili
 
 For this project, we were asked to design an experience that address the democratic process. And we are supposed to use two distinct research methods; Literature review and prototyping. 
 
