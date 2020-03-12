@@ -2,7 +2,7 @@
 layout: post
 title:  "Week5 post-human design"
 date:   2020-02-10
-excerpt: "Collabotative projecy with Tyler"
+excerpt: "Collabotative project with Tyler"
 tag:
 - Term2
 - Collaborative Unit
