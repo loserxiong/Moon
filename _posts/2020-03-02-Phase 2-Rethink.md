@@ -26,7 +26,7 @@ This is indeed very useful, everyone found some interesting materials and provid
 -The contradictory nature of offensive humor holds these circulating online images in tension, thereby enabling what Reilly and Boler (2014) call “prepolitization”—a novel form of civic participation that can mobilize citizens who would not otherwise explicitly participate in civic life, thereby creating new political sensibilities and desires.
 -It can be an effective tool for drawing attention to situations of injustice, for binding people together against formal power structures of authority, and for carving out a space for empowering feelings of 2 Journal of countercontrol, which are necessary ingredients for social and political change
 
-I find this article very instructive, it tells us we shoulf choose humorous expressions carefully to avoid being offensive and humor can function as a mobilizing force, without glossing over its limitations in the realm of civic engagement. 
+I find this article very instructive, it tells us we should choose humorous expressions carefully to avoid being offensive and humor can function as a mobilizing force, without glossing over its limitations in the realm of civic engagement. 
 
 After that, Carol and Jiayi also analyzed the content posted on XR social media, regarding the words used in their slogans and the types of protests. At this stage, we actually backed up our progress a bit. We were too fast before and many things didn't come and think. This time we returned to the literature review stage, but we got many interesting ideas.
 
