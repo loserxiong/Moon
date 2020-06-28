@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Phase 4 Perfect the design"
+title:  "Stage 4 Perfect the design"
 date:   2020-06-04
 excerpt: "Micro UX Partner: R\GA"
 tag:

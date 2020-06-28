@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Phase 1 Literature review"
+title:  "Stage 1 Literature review"
 date:   2020-03-01
 excerpt: "Micro UX Partner: R\GA"
 tag:

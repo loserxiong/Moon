@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Phase 3 Determine direction"
+title:  "Stage 3 Determine direction"
 date:   2020-06-03
 excerpt: "Micro UX Partner: R\GA"
 tag:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Phase 2 Divergent thinking"
+title:  "Stage 2 Divergent thinking"
 date:   2020-06-02
 excerpt: "Micro UX Partner: R\GA"
 tag:
