@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stage 3 Determine direction"
-date:   2020-05-012
+date:   2020-05-12
 excerpt: "Micro UX Partner: RGA"
 tag:
 - Term3
@@ -17,21 +17,21 @@ We want to let children participate without pressure through play. We searched f
 
 Zain drew a storyboard based on our vision.
 
-![image-20200629003405722](/Users/jasonxiong/Library/Application Support/typora-user-images/image-20200629003405722.png)
+![截屏2020-06-29 上午1.36.53.png](https://i.loli.net/2020/06/29/yWKUrESYHAs15Im.png)
 
 I was responsible for drawing a sketch of the product. This product is a hexagonal box. There are two layers, the first layer is the tool layer. Our vision is to include 9 colors of pencils and erasers. The second layer is the card layer. There are five cards in it. Our assumption is that there are five patterns on the five cards, and children can create randomly according to these five patterns.
 
-![image-20200629003448952](/Users/jasonxiong/Library/Application Support/typora-user-images/image-20200629003448952.png)
+![截屏2020-06-29 上午1.37.12.png](https://i.loli.net/2020/06/29/7NG1dExnmWz4Csy.png)
 
 I also modeled the product.
 
-![image-20200629003526544](/Users/jasonxiong/Library/Application Support/typora-user-images/image-20200629003526544.png)
+![截屏2020-06-29 上午1.37.30.png](https://i.loli.net/2020/06/29/bEVTPO79dc1xakf.png)
 
-![image-20200629003512070](/Users/jasonxiong/Library/Application Support/typora-user-images/image-20200629003512070.png)
+![截屏2020-06-29 上午1.37.22.png](https://i.loli.net/2020/06/29/klQyGjnAsFNVhTu.png)
 
 After that. I also drew a picture of how parents interact online after painting.
 
-![image-20200629003709296](/Users/jasonxiong/Library/Application Support/typora-user-images/image-20200629003709296.png)
+![截屏2020-06-29 上午1.37.55.png](https://i.loli.net/2020/06/29/xnjV4GUmy28thXZ.png)
 
 According to our assumption, this is a research tool, which is voluntarily participated by the family. After the child completes, the parent uploads the child’s work. After that, he can see how other children use color to express their mood and how other children use it. Different colors express the same mood. Experts can obtain these data to help analyze and compare the mental state of children.
 
