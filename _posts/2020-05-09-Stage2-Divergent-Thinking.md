@@ -2,7 +2,7 @@
 layout: post
 title:  "Stage 2 Divergent thinking"
 date:   2020-05-09
-excerpt: "Micro UX Partner: R\GA"
+excerpt: "Micro UX Partner: RGA"
 tag:
 - Term3
 - Micro UX
