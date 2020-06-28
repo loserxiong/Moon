@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Stage 1 Literature review"
-date:   2020-06-01
-excerpt: "Micro UX Partner: R\GA"
+title:  "Stage 1 Literature Review"
+date:   2020-05-01
+excerpt: "Macro UX Partner: RGA"
 tag:
 - Term3
 - Micro UX
 comments: false
 ---
+
+
 
 Partner：Zain, Ivy, Kai
 
