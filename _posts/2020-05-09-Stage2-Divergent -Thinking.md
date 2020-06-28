@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stage 2 Divergent thinking"
-date:   2020-06-02
+date:   2020-05-09
 excerpt: "Micro UX Partner: R\GA"
 tag:
 - Term3

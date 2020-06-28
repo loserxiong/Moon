@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Stage 4 Perfect the design"
-date:   2020-06-04
-excerpt: "Micro UX Partner: R\GA"
+date:   2020-05-019
+excerpt: "Micro UX Partner: RGA"
 tag:
 - Term3
 - Micro UX

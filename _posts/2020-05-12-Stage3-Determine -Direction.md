@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Stage 3 Determine direction"
-date:   2020-06-03
-excerpt: "Micro UX Partner: R\GA"
+date:   2020-05-012
+excerpt: "Micro UX Partner: RGA"
 tag:
 - Term3
 - Micro UX

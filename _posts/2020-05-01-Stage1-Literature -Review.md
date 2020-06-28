@@ -2,7 +2,7 @@
 layout: post
 title:  "Stage 1 Literature Review"
 date:   2020-05-01
-excerpt: "Macro UX Partner: RGA"
+excerpt: "Micro UX Partner: RGA"
 tag:
 - Term3
 - Micro UX
